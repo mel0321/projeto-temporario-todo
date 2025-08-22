@@ -1,8 +1,14 @@
 {
   "name": "projeto-temporario-todo",
   "description": "A temporary project for Todo app",
-   "keywords": ["expo","react-native","todo","etec","mtec"],  
-   "author": "Melania",
+  "keywords": [
+    "expo",
+    "react-native",
+    "todo",
+    "etec",
+    "mtec"
+  ],
+  "author": "Melania",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
